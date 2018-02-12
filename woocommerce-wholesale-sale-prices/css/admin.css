@@ -1,0 +1,8 @@
+.post-type-product .woocommerce_options_panel .options_group {
+     border-bottom: 0;
+}
+
+/*remove alternate wholsale view*/
+.woocommerce_page_wc-settings #mainform > table > tbody > tr:nth-child(1){
+   /* display: none;*/
+}
